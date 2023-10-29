@@ -99,8 +99,22 @@ As you progress through the internship, you can enhance your knowledge and skill
 
 You can also refer to the book "Tutorial 3.7: Python from Beginner to Advanced" to deepen your Python knowledge.
 
+
 ## Projects
 
-You will have the opportunity to execute and work on data science projects in Jupyter Notebook using Python 3.7.0. Select a project that interests you and apply the skills you've learned throughout this internship.
+During this internship, you will have the opportunity to execute and work on data science projects in Jupyter Notebook using Python 3.7.0. One of the projects you'll be working on is the **Online Shopping Sentiment Analysis Project: Flipkart**. 
 
-Feel free to reach out if you have any questions or need assistance during your journey through this internship. Happy learning and exploring the world of data science with Python! 🐍📊🔍
+### Online Shopping Sentiment Analysis Project: Flipkart
+
+- **Project Description**: In this project, you will delve into the world of sentiment analysis in the context of online shopping reviews on Flipkart, a popular e-commerce platform. You will analyze and classify customer reviews into positive, negative, or neutral sentiments, providing valuable insights for both consumers and businesses.
+
+- **Project Goals**:
+  - Collect and preprocess data from Flipkart reviews.
+  - Perform text analysis and sentiment classification using Python and data science libraries.
+  - Create visualizations to present your findings effectively.
+  - Draw conclusions and make recommendations based on the sentiment analysis results.
+
+This project is an excellent opportunity to apply the knowledge and skills you've gained during the internship to a real-world data science scenario. It will also give you a chance to showcase your abilities as a data scientist.
+
+Feel free to reach out to mentors and fellow interns for guidance and support as you work on the **Online Shopping Sentiment Analysis Project: Flipkart** during your internship.
+
